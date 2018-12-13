@@ -9,6 +9,7 @@ namespace GreenFoods
 {
     public partial class about : System.Web.UI.Page
     {
+Sqlconnection
         protected void Page_Load(object sender, EventArgs e)
         {
 
